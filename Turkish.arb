@@ -1,0 +1,132 @@
+{
+	"security_patch_date": "Güvenlik güncellemesi tarihi",
+	"miui_version": "MIUI Sürümù",
+	"discover": "Keşfet",
+	"home": "Ana Ekran",
+	"chats": "Sohbetler",
+	"me": "Ben",
+	"roms": "ROM'lar",
+	"miui13true": "MIUI 15 güncellemesini alacaksınız.",
+	"miui13false": "MIUI 15 güncellemesini alamayacaksınız.",
+	"android14true": "Android 14 güncellemesini alacaksınız.",
+	"android14false": "Android 14 güncellemesini alamayacaksınız.",
+	"shortnews": "Kısa haberler",
+	"miui_stable": "MIUI Stabil",
+	"miui_stable_sub": "Stabiliteyi hedef alarak her 2-4 ayda güncelleme alır.",
+	"xiaomieu_rom": "Xiaomi.eu ROM'u",
+	"xiaomieu_rom_sub": "3. parti geliştirici tarafından yapılmıştır. MIUI China üstünedir. Reklam yoktur, ve daha fazlası",
+	"dailybeta_rom": "MIUI Haftalık Beta",
+	"dailybeta_rom_sub": "Stabil versiyonun test sürümü. Haftalık güncelleme alır.",
+  "mipilot_rom_sub": "Stabil versiyonun test sürümü. Sadece TWRP yada Mi Pilot hesabıyla kurulabilir.",
+	"news": "Haberler",
+	"search_devices": "Cihazları ara",
+	"devices": "Cihazlar",
+	"all": "Hepsi",
+	"miscellanaous": "Çeşitlilik",
+	"and12eg": "Android 12 Alınabilirlik Testi",
+	"cstmrec": "Özel Recovery (TWRP)",
+	"sauc": "Özellikler ve Kullanıcı Yorumları",
+	"tg_channels": "Telegram Kanalları",
+	"tg_xiaomiui_sub": "Xiaomi ve MIUI hakkında yenilikler, sızdırmalar ve daha fazlası.",
+	"tg_miuidown_sub": "MIUI sürümleri hakkında çabuk olarak güncel kalın ",
+	"tg_xiaomiuigrp_sub": "Resmi Xiaomiui Telegram Grubu.",
+	"tg_gcamgrp_sub": "Resmi Google Camera Downloader Grubu.",
+	"tg_walls_sub": "Sadece mobile uygun duvar kağıtları",
+	"stable_roms": "Stabil ROMlar",
+	"stable_roms_sub": "MIUI Stabil ROM'u stabiliteyi hedef alır ve 2-4 ayda güncelleme alır.",
+	"xiaomieu_roms_sub": "3. parti geliştirici tarafından yapılmıştır. MIUI China üstünedir. Reklam yoktur, ve daha fazlası",
+	"latest_version": "Son Sürüm: ",
+	"rollback_p": "Aradığınız sürüm geri çekilmiş olabilir. Eski sürümleri kontrol edin.",
+	"older_versions": "Eski Sürümler",
+	"version": "Sürüm: ",
+	"miui": "MIUI: ",
+	"android": "Android: ",
+	"update_at": "Güncelleme zamanı: ",
+	"filesize": "Dosya boyutu: ",
+	"md5": "MD5: ",
+	"download": "İndir",
+	"whats_new": "Neler yeni",
+	"file": "Dosya: ",
+	"apply_for": "Uygula: ",
+	"older_versions_title": "Eski Sürümler",
+	"custom_rec_title": "Özel Recoveryler",
+	"nar_rec": "Yeni sürüm yok.",
+	"opening": "Açılıyor...",
+	"copied": "Kopyalandı.",
+	"follow_on_tg": "Detayları Telegram kanalımızda takip edebilirsiniz.",
+	"settings": "Ayarlar",
+	"general": "Genel",
+	"language": "Dil",
+	"dark_mode": "Karanlık Tema",
+	"color_theme": "Renk Teması",
+	"no_rom": "Bu ROM cihazınız için bulunamadı. Lütfen Telegram kanalımızı takip edin",
+	"days_ago": "{value} gün önce",
+	"@days_ago": {
+      "placeholders": {
+        "value": {
+        }
+      }
+  	},
+	"hours_ago": "{value} saat önce",
+	"@hours_ago": {
+      "placeholders": {
+        "value": {
+        }
+      }
+  	},
+	"min_ago": "{value} dakika önce",
+	"@min_ago": {
+      "placeholders": {
+        "value": {
+        }
+      }
+  	},
+	"sec_ago": "{value} saniye önce",
+	"@sec_ago": {
+      "placeholders": {
+        "value": {
+        }
+      }
+  	},
+	"your_device": "Cihazınız:",
+	"apps": "Uygulamalar",
+	"update": "Güncelleme",
+	"no_update": "Güncelleme yok",
+	"umnwglobal": "Güncellemeler Global ROM'da çalışmayabilir",
+	"privacy_policy": "Gizlilik Politikası",
+	"same_dt": "Cihaz teması ile aynı",
+	"always_dark": "Her zaman karanlık temada",
+	"always_light": "Her zaman aydınlık temada",
+	"theme": "Tema",
+	"notify_enb": "Bildirimlere izin verildi.",
+	"notify_disabl": "Notifications are turned off.",
+	"turnofno": "Bildirimleri kapat",
+	"open_not": "Bildirimleri aç",
+	"open_in_web": "Web sayfasında aç",
+	"check_for_updates": "Güncellemeleri kontrol et",
+	"unsupportedDevice": "Cihazınız yada sürümünüz desteklenmiyor!\nBu uygulama sadece Xiaomi cihazlar içindir.",
+	"latest": "MIUI güncel",
+    "howToApply": "Güncelleme dosyası nasıl uygulanır? | Öğretici",
+    "stable": "Stabil",
+    "latestBig": "EN SON",
+    "checking": "Kontrol ediliyor...",
+    "olderVers": "ESKİ SÜRÜMLER",
+    "oldMsg": "Sizin sürümünüzden güncel, en son sürümden eski.",
+    "new_update": "Yeni Güncelleme",
+	"weekly": "Haftalık",
+    "daily": "Günlük",
+    "xiaomieuNot": "Xiaomi.eu sürümleri daha desteklenmektedir. Lütfen uygulamanın yeni sürümünü bekleyin.",
+    "telegram_channel": "Telegram Kanalı",
+    "remove_ads": "Reklamları Kaldır",
+    "the_policy_not_accepted": "Politika kabul edilmedi.",
+    "tap_to_accept": "Kabul etmek için tıklayın",
+    "device_community": "Cihaz Topluluğu",
+    "view_online": "Çevrimiçi olarak bakın",
+    "your_phone_not_supporting": "Cihazınız bu aktiviteyi desteklemiyor",
+    "device_not_found": "Cihaz bulunamadı?",
+    "invalid_version": "Hatalı sürüm. Lütfen Play Store'dan indirin.",
+    "hidden_settings": "Giz. Ayarlar",
+    "social": "Sosyal"
+	
+ 
+}
