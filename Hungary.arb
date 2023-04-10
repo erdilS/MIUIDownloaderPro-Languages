@@ -1,0 +1,132 @@
+{
+	"security_patch_date": "A biztonsági javítás dátuma",
+	"miui_version": "MIUI Verzió",
+	"discover": "Felfedezés",
+	"home": "Kezdőlap",
+	"chats": "Chat",
+	"me": "Én",
+	"roms": "ROM-ok",
+	"miui13true": "Meg fogod kapni a MIUI 15 frissítést.",
+	"miui13false": "Nem fogod megkapni a MIUI 15 frissítést.",
+	"android14true": "Meg fogod kapni az Android 14 frissítést.",
+	"android14false": "Nem fogod megkapni az Android 14 frissítést.",
+	"shortnews": "Rövidhírek",
+	"miui_stable": "Stabil MIUI",
+	"miui_stable_sub": "Előnyben részesíti a stabilitást, és körülbelül 2-4 havonta frissül.",
+	"xiaomieu_rom": "Xiaomi.eu ROM",
+	"xiaomieu_rom_sub": "Harmadik féltől származó fejlesztő Készítette. Kínai ROM alapján. Nincsenek hirdetések és így tovább",
+	"dailybeta_rom": "Heti béta MIUI",
+	"dailybeta_rom_sub": "A stabil verzió tesztverziója. Csak TWRP-vel telepíthető.",
+    "mipilot_rom_sub": "A stabil verzió tesztverziója. Csak TWRP vagy Mi Pilot fiókkal telepíthető.",
+	"news": "Hírek",
+	"search_devices": "Eszköz keresés",
+	"devices": "Eszközök",
+	"all": "MIND",
+	"miscellanaous": "Egyéb",
+	"and12eg": "Android 12 Támogathatósági ellenőrzés",
+	"cstmrec": "Egyedi Recovery (TWRP)",
+	"sauc": "Specifikáció és felhasználói megjegyzések",
+	"tg_channels": "Telegram Csatornák",
+	"tg_xiaomiui_sub": "A Xiaomi telefonok és a MIUI újdonságai, szivárgások és egyebek.",
+	"tg_miuidown_sub": "Gyorsan lépést tarthatsz az új MIUI-verziókkal.",
+	"tg_xiaomiuigrp_sub": "Hivatalos Xiaomiui Telegram Csoport.",
+	"tg_gcamgrp_sub": "Hivatalos Google Camera Downloader csoport.",
+	"tg_walls_sub": "Csak mobil kompatibilis háttérképek",
+	"stable_roms": "Stabil ROM-ok",
+	"stable_roms_sub": "A MIUI Stable ROM előnyben részesíti a stabilitást, és körülbelül 2-4 havonta frissül.",
+	"xiaomieu_roms_sub": "Harmadik féltől származó fejlesztő készítette. Kínai ROM alapján. Nincsenek hirdetések és így tovább.",
+	"latest_version": "Legújabb verzió: ",
+	"rollback_p": "Lehetséges, hogy a keresett verzió vissza lett állítva. Nézd meg a régebbi verziókat.",
+	"older_versions": "Régebbi verziók",
+	"version": "Verzió: ",
+	"miui": "MIUI: ",
+	"android": "Android: ",
+	"update_at": "Frissítve: ",
+	"filesize": "Fájl méret: ",
+	"md5": "MD5: ",
+	"download": "Letöltés",
+	"whats_new": "Mi újság",
+	"file": "Fájl: ",
+	"apply_for": "Jelentkezés: ",
+	"older_versions_title": "Régebbi verziók",
+	"custom_rec_title": "Egyedi Recovery-k",
+	"nar_rec": "Nincs új kiadás.",
+	"opening": "Megnyitás...",
+	"copied": "Másolva.",
+	"follow_on_tg": "A részleteket a Telegram csatornánkon követhethed.",
+	"settings": "Beállítások",
+	"general": "Általános",
+	"language": "Nyelv",
+	"dark_mode": "Sötét Mód",
+	"color_theme": "Színes Téma",
+	"no_rom": "Ez a ROM nem található az eszközödön. Kérjük, ellenőrizd Telegram csatornánkat",
+	"days_ago": "{value} napja",
+	"@days_ago": {
+      "placeholders": {
+        "value": {
+        }
+      }
+  	},
+	"hours_ago": "{value} órája",
+	"@hours_ago": {
+      "placeholders": {
+        "value": {
+        }
+      }
+  	},
+	"min_ago": "{value} perce",
+	"@min_ago": {
+      "placeholders": {
+        "value": {
+        }
+      }
+  	},
+	"sec_ago": "{value} másodperce",
+	"@sec_ago": {
+      "placeholders": {
+        "value": {
+        }
+      }
+  	},
+	"your_device": "Az eszközöd:",
+	"apps": "Appok",
+	"update": "Frissítés",
+	"no_update": "Nincs frissítés",
+	"umnwglobal": "Előfordulhat, hogy a frissítések nem működnek a Global ROM-on",
+	"privacy_policy": "Adatvédelmi irányelvek",
+	"same_dt": "Ugyanaz, mint az eszköz témája",
+	"always_dark": "Mindig sötét téma",
+	"always_light": "Mindig világos téma",
+	"theme": "Téma",
+	"notify_enb": "Értesítések engedélyezve.",
+	"notify_disabl": "Az értesítések ki vannak kapcsolva.",
+	"turnofno": "Értesítések kikapcsolása",
+	"open_not": "Értesítések megnyitása",
+	"open_in_web": "Megnyitás Weben",
+	"check_for_updates": "Frissítések keresése",
+	"unsupportedDevice": "Eszközöd vagy verziója nem támogatott!\nEz az alkalmazás csak Xiaomi telefonokhoz használható.",
+	"latest": "A MIUI naprakész",
+    "howToApply": "Hogyan kell alkalmazni a frissítőfájlt? | Oktatóanyag",
+    "stable": "Stabil",
+    "latestBig": "LEGÚJABB",
+    "checking": "Ellenőrzés...",
+    "olderVers": "RÉGEBBI VERZIÓK",
+    "oldMsg": "Új a TE verziódból, régi a legújabb verzióból.",
+    "new_update": "Új Frissítés",
+	"weekly": "Heti",
+    "daily": "Napi",
+    "xiaomieuNot": "A Xiaomi.eu verziók még nem támogatottak. Várd meg az alkalmazás új verzióit.",
+    "telegram_channel": "Telegram Csoport",
+    "remove_ads": "Hirdetések eltávolítása",
+    "the_policy_not_accepted": "A szabályzat nincs elfogadva",
+    "tap_to_accept": "Érintsd meg az elfogadáshoz",
+    "device_community": "Eszköz Közösség",
+    "view_online": "Megtekintés online",
+    "your_phone_not_supporting": "A telefonod nem támogatja ezt a tevékenységet",
+    "device_not_found": "Eszköz nem található?",
+    "invalid_version": "Érvénytelen verzió. Kérjük, töltsd le a Play Áruházból.",
+    "hidden_settings": "Rejtett Beállítások",
+    "social": "Social"
+	
+ 
+}
