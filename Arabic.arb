@@ -1,0 +1,132 @@
+{
+	"security_patch_date": "تاريخ تحديث الامان",
+	"miui_version": "MIUI اصدار",
+	"discover": "اكتشف",
+	"home": "الصفحه الرئيسيه",
+	"chats":"المحادثات",
+	"me": "انا",
+	"roms": "الرومات",
+	"miui13true": "سوف تحصل على تحديث MIUI 15.",
+	"miui13false": "لن تحصل على تحديث MIUI 15.",
+	"android14true": "سوف تحصل على تحديث Android 14.",
+	"android14false": " لن تحصل على تحديث Android 14.",
+	"shortnews": "اخبار مختصره",
+	"miui_stable": "MIUI مستقر",
+	"miui_stable_sub": "يعطي الأولوية للاستقرار ويتم تحديثه كل شهرين إلى أربعة أشهر تقريبًا.",
+	"xiaomieu_rom": "Xiaomi.eu ROM",
+	"xiaomieu_rom_sub": "تم تطويره بواسطة مطور طرف ثالث. مبنيه على الروم الصيني. لا اعلانات و المزيد",
+	"dailybeta_rom": "MIUI بيتا اسبوعيه",
+	"dailybeta_rom_sub": "نسخة تجريبية من نسخة مستقرة. يمكن تثبيته فقط مع TWRP.",
+  "mipilot_rom_sub": "اختبار نسخة تجريبية من نسخة مستقرة. يمكن تثبيته فقط باستخدام حساب TWRP أو Mi Pilot.",
+	"news": "اخبار",
+	"search_devices": "بحث عن الاجهزه",
+	"devices": "الاجهزه",
+	"all": "الكل",
+	"miscellanaous": "متنوع",
+	"and12eg": "Android 12 التحقق من الأهلية",
+	"cstmrec": "ريكفري معدل (TWRP)",
+	"sauc": "المواصفات وتعليقات المستخدم",
+	"tg_channels": "قنواتنا على التيليجرام",
+	"tg_xiaomiui_sub": "ما الجديد في هواتف Xiaomi و MIUI, التسريبات و المزيد.",
+	"tg_miuidown_sub": "مواكبة إصدارات MIUI الجديدة بسرعة.",
+	"tg_xiaomiuigrp_sub": "مجموعة Xiaomiui Telegram الرسمية.",
+	"tg_gcamgrp_sub": "مجموعة تحميل كاميرا جوجل الرسمية.",
+	"tg_walls_sub": "فقط خلفيات متوافقة مع الهاتف المحمول",
+	"stable_roms": "رومات مستقره",
+	"stable_roms_sub": "يعطي MIUI الروم المستقر الأولوية للاستقرار ويتم تحديثه كل شهرين إلى أربعة أشهر تقريبًا.",
+	"xiaomieu_roms_sub": "تم تطويره بواسطة مطور طرف ثالث. مبنيه على الروم الصيني. لا توجد اعلانات و المزيد.",
+	"latest_version": "احدث اصدار: ",
+	"rollback_p": "ربما تم التراجع عن الإصدار الذي تبحث عنه. تحقق من الإصدارات القديمة.",
+	"older_versions": "الاصدارات القديمة,
+	"version": "الاصدار: ",
+	"miui": "MIUI: ",
+	"android": "اندرويد: ",
+	"update_at": "تم التحديث في: ",
+	"filesize": "حجم الملف: ",
+	"md5": "MD5: ",
+	"download": "التحميل",
+	"whats_new": "ما الجديد",
+	"file": "الملف: ",
+	"apply_for": "التقدم بطلب للحصول على: ",
+	"older_versions_title": "الاصدارات القديمة",
+	"custom_rec_title": "ريكفري معدله",
+	"nar_rec": "لا يوجد اصدار احدث.",
+	"opening": "يفتح...",
+	"copied": "تم النسخ.",
+	"follow_on_tg": "يمكنك متابعة التفاصيل على قناة التيليجرام الخاصة بنا.",
+	"settings": "الاعدادات",
+	"general": "عام",
+	"language": "اللغة",
+	"dark_mode": "الوضع المظلم",
+	"color_theme": "لون الثيم",
+	"no_rom": "تعذر العثور على الروم على هاتفك. تحقق من قناتنا على التيليجرام",
+	"days_ago": "{value} ايام مضت",
+	"@days_ago": {
+      "placeholders": {
+        "value": {
+        }
+      }
+  	},
+	"hours_ago": "{value} ساعات مضت",
+	"@hours_ago": {
+      "placeholders": {
+        "value": {
+        }
+      }
+  	},
+	"min_ago": "{value} دقائق مضت",
+	"@min_ago": {
+      "placeholders": {
+        "value": {
+        }
+      }
+  	},
+	"sec_ago": "{value} ثواني مضت",
+	"@sec_ago": {
+      "placeholders": {
+        "value": {
+        }
+      }
+  	},
+	"your_device": "هاتفك:",
+	"apps": "التطبيقات",
+	"update": "التحديثات",
+	"no_update": "لا تحديث",
+	"umnwglobal": "ربما لن يعمل بالاصدار العالمي",
+	"privacy_policy": "سياسة الخصوصية",
+	"same_dt": "نفس مظهر الجهاز",
+	"always_dark": "دائمًا في المظهر المظلم",
+	"always_light": "دائمًا في المظهر المشرق",
+	"theme": "الثيم",
+	"notify_enb": "الاشعارات تعمل.",
+	"notify_disabl": "الاشعارات مغلقة.",
+	"turnofno": "اغلق الاشعارات",
+	"open_not": "افتح الاشعارات",
+	"open_in_web": "افتح في المتصفح",
+	"check_for_updates": "تحقق من وجود تحديثات",
+	"unsupportedDevice": "اصدار هاتف غير مدعوم!\nهذا التطبيق لهواتف شاومي فقط.",
+	"latest": "MIUI محدث",
+    "howToApply": "كيف تستخدم ملف التحديث? | الارشادات",
+    "stable": "مستقر",
+    "latestBig": "الاحدث",
+    "checking": "يتحقق...",
+    "olderVers": "الاصدارات القديمة",
+    "oldMsg": "الجديد من نسختك, قديم من النسخ الحديثه.",
+    "new_update": "تحديث جديد",
+	"weekly": "اسبوعي",
+    "daily": "يومي",
+    "xiaomieuNot": "Xiaomi.eu الإصدارات غير معتمدة حتى الآن. انتظر الإصدارات الجديدة من التطبيق.",
+    "telegram_channel": "قنات التيليجرام",
+    "remove_ads": "ازاله الاعلانات",
+    "the_policy_not_accepted": "لم يتم قبول السياسة.",
+    "tap_to_accept": "اضغط للقبول",
+    "device_community": "مجتمع الجهاز",
+    "view_online": "اعرضه على الانترنت",
+    "your_phone_not_supporting": "هاتفك لا يدعم هذا النشاط",
+    "device_not_found": "لم يتم العثور على الجهاز?",
+    "invalid_version": "اصدار غير صالح. الرجاء حمل التطبيق من متجر جوجل بلاي.",
+    "hidden_settings": "الاعدادات المخفية",
+    "social": "اجتماعي"
+
+
+}
