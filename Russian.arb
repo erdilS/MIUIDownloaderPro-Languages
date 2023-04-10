@@ -1,0 +1,132 @@
+{
+	"security_patch_date": Дата патча безопасности",
+	"miui_version": "Версия MIUI",
+	"discover": "Исследовать",
+	"home": "Домой",
+	"chats": "Чаты",
+	"me": "Мой профиль",
+	"roms": "ROM's",
+	"miui13true": "Вы получите обновление MIUI 15.",
+	"miui13false": "Вы не получите обновление MIUI 15.",
+	"android14true": "Вы получите обновление Android 14.",
+	"android14false": "Вы не получите обновление Android 14.",
+	"shortnews": "Короткие новости",
+	"miui_stable": "Стабильная MIUI",
+	"miui_stable_sub": "Приоритет стабильности, получает обновление каждые 2-4 месяца.",
+	"xiaomieu_rom": "Xiaomi.eu ROM",
+	"xiaomieu_rom_sub": "Разработано сторонними разработчиками. Основан на китайском ROM. Больше нет рекламы.",
+	"dailybeta_rom": "MIUI Еженедельная бета",
+	"dailybeta_rom_sub": "Тестовая версия стабильной версии. Может быть установлена только с помощью TWRP.",
+    "mipilot_rom_sub": "Тестовая версия стабильной версии. Может быть установлена только с помощью TWRP или Mi Pilot аккаунта.",
+	"news": "Новости",
+	"search_devices": "Поиск устрйоств",
+	"devices": "Устройства",
+	"all": "Все",
+	"miscellanaous": "Разнообразные",
+	"and12eg": "Проверка соответствия требованиям Android 12",
+	"cstmrec": "Кастомное рекавери (TWRP)",
+	"sauc": "Конфигурации и комментарии пользователей",
+	"tg_channels": "Telegarm каналы",
+	"tg_xiaomiui_sub": "Что нового о телефонах Xiaomi и MIUI, утечки и больше.",
+	"tg_miuidown_sub": "Быстро следите за новыми версиями MIUI.",
+	"tg_xiaomiuigrp_sub": Официальная Xiaomiui группа Telegram.",
+	"tg_gcamgrp_sub": "Официальная Google Camera Downloader группа.",
+	"tg_walls_sub": "Только мобильные совместимые обои",
+	"stable_roms": "Стабильные ROMS",
+	"stable_roms_sub": "Стабильная MIUI с приоритетом стабильности, получает обновление каждые 2-4 месяца.",
+	"xiaomieu_roms_sub": "Разработано сторонними разработчиками. Основан на китайском ROM. Больше нет рекламы.",
+	"latest_version": "Последняя версия: ",
+	"rollback_p": "Версия, которую ты ищешь, может быть отозвана. Посмотри предыдущие версии.",
+	"older_versions": "Старые версии",
+	"version": "Версия: ",
+	"miui": "MIUI: ",
+	"android": "Android: ",
+	"update_at": "Обновлено в: ",
+	"filesize": "Размер файла: ",
+	"md5": "MD5: ",
+	"download": "Скачать",
+	"whats_new": "Что нового",
+	"file": "Файл: ",
+	"apply_for": "Применить к: ",
+	"older_versions_title": "Старые версии",
+	"custom_rec_title": "Кастомные рекавери",
+	"nar_rec": "Нет новых релизов.",
+	"opening": "Открытие...",
+	"copied": "Скопировано.",
+	"follow_on_tg": "Ты можешь следить за подробностями в нашем Telegram канале.",
+	"settings": "Найстроки",
+	"general": "Основные",
+	"language": "Язык",
+	"dark_mode": "Тёмная тема",
+	"color_theme": "Цветная тема",
+	"no_rom": "Этот ROM не найден на вашем устройстве. Пожалуйста, проверьте Telegram канал.",
+	"days_ago": "{value} дней назад",
+	"@days_ago": {
+      "placeholders": {
+        "value": {
+        }
+      }
+  	},
+	"hours_ago": "{value} часов назад",
+	"@hours_ago": {
+      "placeholders": {
+        "value": {
+        }
+      }
+  	},
+	"min_ago": "{value} минут назад",
+	"@min_ago": {
+      "placeholders": {
+        "value": {
+        }
+      }
+  	},
+	"sec_ago": "{value} секунд назад",
+	"@sec_ago": {
+      "placeholders": {
+        "value": {
+        }
+      }
+  	},
+	"your_device": "Ваше устройство:",
+	"apps": "Приложения",
+	"update": "Обновление",
+	"no_update": "Нет обновления",
+	"umnwglobal": "Обновления могут не рабоатть на Global ROM",
+	"privacy_policy": "Политика Конфиденциальности",
+	"same_dt": "Как на устройстве",
+	"always_dark": "Всегда тёмная тема",
+	"always_light": "Всегда светлая тема",
+	"theme": "Тема",
+	"notify_enb": "Уведомления включены.",
+	"notify_disabl": "Уведомления выключены.",
+	"turnofno": "Выключить уведомления",
+	"open_not": "Открыть уведомления",
+	"open_in_web": "Открыть в браузере",
+	"check_for_updates": "Проверить наличие обнволений",
+	"unsupportedDevice": "Ваше устройство или версия не поддерживаются!\nЭто приложение только для телефонов Xiaomi.",
+	"latest": "Установлена последняя версия MIUI",
+    "howToApply": "Как применить файл обновления? | Туториал",
+    "stable": "Стабильная",
+    "latestBig": "ПОСЛЕДНЯЯ",
+    "checking": "Проверка...",
+    "olderVers": "СТАРЫЕ ВЕРСИИ",
+    "oldMsg": "Новое от вашей версии, старое от самой новой версии.",
+    "new_update": "Новое Обновление",
+	"weekly": "Еженедельно",
+    "daily": "Ежедневно",
+    "xiaomieuNot": "Xiaomi.eu версия не поддерживается. Ждите новой версии приложения",
+    "telegram_channel": "Telegram Канал",
+    "remove_ads": "Убрать Рекламу",
+    "the_policy_not_accepted": "Политика Конфиденциальности не принята.",
+    "tap_to_accept": "Нажмите, чтобы принять",
+    "device_community": "Сообщество",
+    "view_online": "Посмотреть онлайн",
+    "your_phone_not_supporting": "Ваше устройство не поддерживает это activity",
+    "device_not_found": "Устройство не обнаружено?",
+    "invalid_version": "Неверная версия. Пожалуйста, установите из Play Store.",
+    "hidden_settings": "Скрытые настройки",
+    "social": "Поделиться"
+	
+ 
+}

@@ -1,0 +1,132 @@
+{
+	"security_patch_date": "Pembaruan keamanan",
+	"miui_version": "Versi MIUI",
+	"discover": "Discover",
+	"home": "Beranda",
+	"chats": "Pesan",
+	"me": "Saya",
+	"roms": "ROM",
+	"miui13true": "Kamu akan mendapatkan update MIUI 15.",
+	"miui13false": "Kamu tidak akan mendapatkan update MIUI 15.",
+	"android14true": "Kamu akan mendapatkan update Android 14.",
+	"android14false": "Kamu tidak akan mendapatkan update Android 14.",
+	"shortnews": "Berita singkat",
+	"miui_stable": "MIUI Stabil",
+	"miui_stable_sub": "Memprioritaskan stabilitas, akan mendapatkan update setiap 2 - 4 bulan.",
+	"xiaomieu_rom": "ROM Xiaomi.Eu",
+	"xiaomieu_rom_sub": "Dibuat oleh developer pihak ketiga. Berdasarkan MIUI China. Tidak ada iklan dan masih banyak lagi.",
+	"dailybeta_rom": "MIUI Beta Mingguan",
+	"dailybeta_rom_sub": "Versi uji coba stabil. Hanya bisa di install menggunakan TWRP.",
+  "mipilot_rom_sub": "Versi uji coba stabil. Hanya bisa di install menggunakan TWRP atau akun Mi Pilot.",
+	"news": "Berita",
+	"search_devices": "Cari perangkat",
+	"devices": "Perangkat",
+	"all": "Semua",
+	"miscellanaous": "Miscellanaous",
+	"and12eg": "Periksa kompabilitas Android 12",
+	"cstmrec": "Pemulihan Kustom (TWRP)",
+	"sauc": "Spesifikasi dan komentar pengguna",
+	"tg_channels": "Saluran Telegram",
+	"tg_xiaomiui_sub": "Apa yang baru dari Xiaomi, bocoran dan masih banyak lagi.",
+	"tg_miuidown_sub": "Quickly keep up with new MIUI versions.",
+	"tg_xiaomiuigrp_sub": "Grup telegram resmi Xiaomiui.",
+	"tg_gcamgrp_sub": "Grup resmi unduhan kamera Google.",
+	"tg_walls_sub": "Hanya wallpaper perangkat yang didukung",
+	"stable_roms": "ROM Stabil",
+	"stable_roms_sub": "Memprioritaskan stabilitas, akan mendapatkan update setiap 2 - 4 bulan.",
+	"xiaomieu_roms_sub": "Dibuat oleh developer pihak ketiga. Berdasarkan MIUI China. Tidak ada iklan dan masih banyak lagi.",
+	"latest_version": "Versi terbaru: ",
+	"rollback_p": "Versi yang kamu cari ditarik kembali oleh Xiaomi. Periksa versi yang lebih tua.",
+	"older_versions": "Versi lebih tua",
+	"version": "Versi: ",
+	"miui": "MIUI: ",
+	"android": "Android: ",
+	"update_at": "Diperbarui pada: ",
+	"filesize": "Ukuran berkas: ",
+	"md5": "MD5: ",
+	"download": "Unduh",
+	"whats_new": "Apa yang baru?",
+	"file": "Berkas: ",
+	"apply_for": "Terapkan untuk: ",
+	"older_versions_title": "Versi lebih tua",
+	"custom_rec_title": "Pemulihan kustom",
+	"nar_rec": "Tidak ada versi terbaru.",
+	"opening": "Membuka...",
+	"copied": "Disalin.",
+	"follow_on_tg": "Ikuti detailnya di saluran Telegram kami.",
+	"settings": "Pengaturan",
+	"general": "Umum",
+	"language": "Bahasa",
+	"dark_mode": "Mode Gelap",
+	"color_theme": "Tema Warna",
+	"no_rom": "ROM ini tidak ditemukan pada perangkat mu. Silahkan periksa saluran Telegram kami",
+	"days_ago": "{value} hari yang lalu",
+	"@days_ago": {
+      "placeholders": {
+        "value": {
+        }
+      }
+  	},
+	"hours_ago": "{value} jam yang lalu",
+	"@hours_ago": {
+      "placeholders": {
+        "value": {
+        }
+      }
+  	},
+	"min_ago": "{value} menit yang lalu",
+	"@min_ago": {
+      "placeholders": {
+        "value": {
+        }
+      }
+  	},
+	"sec_ago": "{value} detik yang lalu",
+	"@sec_ago": {
+      "placeholders": {
+        "value": {
+        }
+      }
+  	},
+	"your_device": "Perangkatmu:",
+	"apps": "Aplikasi",
+	"update": "Update",
+	"no_update": "Tidak ada update",
+	"umnwglobal": "Update mungkin tidak bekerja di ROM Global",
+	"privacy_policy": "Pejanjian privasi",
+	"same_dt": "Sama dengan tema perangkat",
+	"always_dark": "Selalu di tema gelap",
+	"always_light": "Selalu di tema terang",
+	"theme": "Tema",
+	"notify_enb": "Pemberitahuan di aktifkan.",
+	"notify_disabl": "Pemberitahuan di nonaktifkan.",
+	"turnofno": "Matikan pemberitahuan",
+	"open_not": "Buka pemberitahuan",
+	"open_in_web": "Buka di web",
+	"check_for_updates": "Periksa pembaruan",
+	"unsupportedDevice": "Perangkat atau versimu tidak didukung!\nAplikasi ini hanya untuk perangkat Xiaomi",
+	"latest": "MIUI sudah terbaru",
+    "howToApply": "Bagaimana cara menginstall update? | Panduan",
+    "stable": "Stabil",
+    "latestBig": "TERBARU",
+    "checking": "Memeriksa...",
+    "olderVers": "VERSI LEBIH TUA",
+    "oldMsg": "Baru dari versimu, tua di versi terbaru.",
+    "new_update": "Update baru",
+	"weekly": "Mingguan",
+    "daily": "Harian",
+    "xiaomieuNot": "Versi Xiaomi.Eu tidak didukung. Tunggu versi terbaru aplikasi.",
+    "telegram_channel": "Saluran Telegram",
+    "remove_ads": "Hapus Iklan",
+    "the_policy_not_accepted": "Perjanjian ditolak.",
+    "tap_to_accept": "Tap untuk menyetujui",
+    "device_community": "Komunitas Perangkat",
+    "view_online": "Lihat online",
+    "your_phone_not_supporting": "Perangkatmu tak mendukung aktivitas ini",
+    "device_not_found": "Perangkat tak ditemukan?",
+    "invalid_version": "Versi salah. Silahkan unduh dari Play Store.",
+    "hidden_settings": "Pengaturan tersembunyi",
+    "social": "Sosial"
+	
+ 
+}

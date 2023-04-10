@@ -1,0 +1,132 @@
+{
+	"security_patch_date": "Ngày bản cập nhật bảo mật",
+	"miui_version": "Phiên bản MIUI",
+	"discover": "Khám phá",
+	"home": "Trang chủ",
+	"chats": "Diễn đàn",
+	"me": "Tôi",
+	"roms": "ROM's",
+	"miui13true": "Bạn sẽ nhận được cập nhật MIUI 15.",
+	"miui13false": "Bạn sẽ không nhận được cập nhật MIUI 15.",
+	"android14true": "Bạn sẽ nhận được cập nhật Android 14.",
+	"android14false": "Bạn sẽ không nhận được cập nhật Android 14.",
+	"shortnews": "Tin ngắn",
+	"miui_stable": "MIUI Ổn định",
+	"miui_stable_sub": "Ưu tiên sự ổn định và được cập nhật trong khoảng 2-4 tháng một lần.",
+	"xiaomieu_rom": "ROM Xiaomi.eu",
+	"xiaomieu_rom_sub": "Được phát triển bởi một lập trình viên bên thứ 3. Dựa trên ROM Trung Quốc. Không có quảng cáo và nhiều thứ khác.",
+	"dailybeta_rom": "MIUI Beta hàng tuần",
+	"dailybeta_rom_sub": "Phiên bản thử nghiệm của phiên bản ổn định. Nó chỉ có thể được cài đặt bằng TWRP.",
+  "mipilot_rom_sub": "Phiên bản thử nghiệm của phiên bản ổn định. Nó chỉ có thể được cài đặt bằng TWRP hoặc tài khoản Mi Pilot.",
+	"news": "Tin tức",
+	"search_devices": "Tìm kiếm Thiết bị",
+	"devices": "Thiết bị",
+	"all": "Tất cả",
+	"miscellanaous": "Khác",
+	"and12eg": "Kiểm tra tính đủ điều kiện của Android 12",
+	"cstmrec": "Bộ Khôi phục tùy chỉnh (TWRP)",
+	"sauc": "Thông số và bình luận người dùng",
+	"tg_channels": "Kênh Telegram",
+	"tg_xiaomiui_sub": "Những gì mới về điện thoại Xiaomi phones và MIUI, leak và nhiều thứ khác",
+	"tg_miuidown_sub": "Cập nhật nhanh các phiên bản MIUI mới",
+	"tg_xiaomiuigrp_sub": "Nhóm Telegram Xiaomiui chính thức.",
+	"tg_gcamgrp_sub": "Nhóm Google Camera Downloader chính thức.",
+	"tg_walls_sub": "Chỉ hình nền tương thích điện thoại",
+	"stable_roms": "ROM Ổn định",
+	"stable_roms_sub": "ROM MIUI Ổn định ưu tiên sự ổn định và được cập nhật trong khoảng 2-4 tháng một lần.",
+	"xiaomieu_roms_sub": "Được phát triển bởi một lập trình viên bên thứ 3. Dựa trên ROM Trung Quốc. Không có quảng cáo và nhiều thứ khác.",
+	"latest_version": "Phiên bản mới nhất: ",
+	"rollback_p": "Phiên bản bạn đang tìm có thể đã bị thu hồi. Hãy tìm phiên bản cũ hơn.",
+	"older_versions": "Những phiên bản cũ hơn",
+	"version": "Phiên bản: ",
+	"miui": "MIUI: ",
+	"android": "Android: ",
+	"update_at": "Đã cập nhật: ",
+	"filesize": "Kích thước: ",
+	"md5": "MD5: ",
+	"download": "Tải về",
+	"whats_new": "Tóm tắt cập nhật",
+	"file": "Tập tin: ",
+	"apply_for": "Áp dụng cho: ",
+	"older_versions_title": "Những phiên bản cũ hơn",
+	"custom_rec_title": "Những bộ Khôi phục tùy chỉnh",
+	"nar_rec": "Không có phát hành mới.",
+	"opening": "Đang mở...",
+	"copied": "Đã sao chép.",
+	"follow_on_tg": "Bạn có thể xem chi tiết trên kênh Telegram của chúng tôi.",
+	"settings": "Cài đặt",
+	"general": "Tổng quan",
+	"language": "Ngôn ngữ",
+	"dark_mode": "Chế độ e",Tối
+	"color_theme": "Màu chủ đề",
+	"no_rom": "ROM này có thể không thể tìm thấy trên thiết bị của bạn. Vui lòng xem kênh Telegram của chúng tôi",
+	"days_ago": "cách đây {value} ngày",
+	"@days_ago": {
+      "placeholders": {
+        "value": {
+        }
+      }
+  	},
+	"hours_ago": "cách đây {value} giờ",
+	"@hours_ago": {
+      "placeholders": {
+        "value": {
+        }
+      }
+  	},
+	"min_ago": "cách đây {value} phút",
+	"@min_ago": {
+      "placeholders": {
+        "value": {
+        }
+      }
+  	},
+	"sec_ago": "cách đây {value} giây",
+	"@sec_ago": {
+      "placeholders": {
+        "value": {
+        }
+      }
+  	},
+	"your_device": "Thiết bị của bạn:",
+	"apps": "Ứng dụng",
+	"update": "Cập nhật",
+	"no_update": "Không có cập nhật",
+	"umnwglobal": "Cập nhật có thể không hoạt động trên ROM Global",
+	"privacy_policy": "Chính sách bảo mật",
+	"same_dt": "Giống chủ đề thiết bị",
+	"always_dark": "Luôn luôn chế độ nền tối",
+	"always_light": "Luôn luôn chế độ sáng",
+	"theme": "Chủ đề",
+	"notify_enb": "Đã bật Thông báo.",
+	"notify_disabl": "Thông báo đã được tắt.",
+	"turnofno": "Tắt Thông báo",
+	"open_not": "Mở Thông báo",
+	"open_in_web": "Mở trong trình duyệt",
+	"check_for_updates": "Kiểm tra cập nhật",
+	"unsupportedDevice": "Thiết bị của bạn hoặc phiên bản không được hỗ trợ!\nỨng dụng này chỉ dành cho điện thoại Xiaomi.",
+	"latest": "Không có cập nhật MIUI mới nào",
+    "howToApply": "Làm cách nào để áp dụng tập tin cập nhật? | Hướng dẫn",
+    "stable": "Ổn định",
+    "latestBig": "MỚI NHẤT",
+    "checking": "Đanh kiểm tra...",
+    "olderVers": "PHIÊN BẢN CŨ HƠN",
+    "oldMsg": "Mời từ phiên bản của bạn, cũ từ phiên bản mới nhất.",
+    "new_update": "Cập nhật mới",
+	"weekly": "Hàng tuần",
+    "daily": "Hàng ngày",
+    "xiaomieuNot": "Phiên bản Xiaomi.eu chưa được hỗ trợ. Hãy đợi phiên bản mới của ứng dụng.",
+    "telegram_channel": "Kênh Telegram",
+    "remove_ads": "Gỡ Quảng cáo",
+    "the_policy_not_accepted": "Chính sách không được chấp nhận.",
+    "tap_to_accept": "Nhấn để Chấp nhận",
+    "device_community": "Cộng đồng thiết bị",
+    "view_online": "Xem trực tuyến",
+    "your_phone_not_supporting": "Điện thoại của bạn không hỗ trợ hoạt động này",
+    "device_not_found": "Thiết bị không được tìm thấy?",
+    "invalid_version": "Sai phiên bản. Vui lòng tải từ Cửa hàng Google Play.",
+    "hidden_settings": "Cài đặt Ẩn",
+    "social": "Xã hội"
+	
+ 
+}

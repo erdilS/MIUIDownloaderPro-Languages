@@ -1,0 +1,132 @@
+{
+	"security_patch_date": "Data łatki bezpieczeństwa",
+	"miui_version": "Wersja MIUI",
+	"discover": "Odkryj",
+	"home": "Strona Główna",
+	"chats": "Czaty",
+	"me": "Ja",
+	"roms": "ROMy",
+	"miui13true": "Otrzymasz aktualizację do MIUI 15.",
+	"miui13false": "Nie otrzymasz aktualizacji do MIUI 15.",
+	"android14true": "Otrzymasz aktualizację do wersji Android 14.",
+	"android14false": "Nie otrzymasz aktualizacji do Androida 14.",
+	"shortnews": "Krótkie wiadomości",
+	"miui_stable": "Stabilna wersja MIUI",
+	"miui_stable_sub": "Prioretyzuje stabilnością oraz otrzymuję aktualizację co 2-4 msc.",
+	"xiaomieu_rom": "ROM Xiaomi.eu",
+	"xiaomieu_rom_sub": "Zbudowany przez osobę trzecią. Bazowany na Chińskim ROMie. Brak reklam i więcej...",
+	"dailybeta_rom": "Tygodniowy ROM MIUI beta",
+	"dailybeta_rom_sub": "Testowa wersja stabilnego ROMu. Może być zainstalowana tylko przez TWRP.",
+  "mipilot_rom_sub": "Testowa wersja stabilnego ROMu. Może być zainstalowana tylko przez TWRP oraz przez konto Mi Pilot",
+	"news": "Informacje",
+	"search_devices": "Szukaj urządzeń",
+	"devices": "Urządzenia",
+	"all": "Wszystkie",
+	"miscellanaous": "Różne",
+	"and12eg": "Sprawdzanie Poprawności Androida 12",
+	"cstmrec": "Niestandardowe Recovery (TWRP)",
+	"sauc": "Specyfikacja oraz Opinie Użytkowników",
+	"tg_channels": "Kanały Telegram",
+	"tg_xiaomiui_sub": "Co nowego o telefonach Xiaomi, wycieki i inne.",
+	"tg_miuidown_sub": "Nadążaj za nowymi wersjami MIUI.",
+	"tg_xiaomiuigrp_sub": "Oficjalna grupa Xiaomiui na platformie telegram.",
+	"tg_gcamgrp_sub": "Oficjalna grupa do pobierania GCam.",
+	"tg_walls_sub": "Tapety tylko kompatybilne z urządzeniami mobilnymi",
+	"stable_roms": "Sabilne ROMy",
+	"stable_roms_sub": "Stabilny ROM MIUI priorytetyzuje stabilnością oraz otrzymuję aktualizację co 2-4 msc.",
+	"xiaomieu_roms_sub": "Zbudowany przez osobę trzecią. bazowany na Chińskim ROMie. Bez reklam i więcej.",
+	"latest_version": "Najnowsza wersja: ",
+	"rollback_p": "Wersja którą chcesz poszukać może być wycofana. Sprawdź starsze wersje.",
+	"older_versions": "Starsze wersje",
+	"version": "Wersja: ",
+	"miui": "MIUI: ",
+	"android": "Android: ",
+	"update_at": "Zaaktualizowano: ",
+	"filesize": "Rozmiar Pliku: ",
+	"md5": "MD5: ",
+	"download": "Pobierz",
+	"whats_new": "Co nowego!",
+	"file": "Plik: ",
+	"apply_for": "Użyj dla: ",
+	"older_versions_title": "Starsze wersje",
+	"custom_rec_title": "Niestandardowe Recovery",
+	"nar_rec": "Brak nowej wersji.",
+	"opening": "Otwieranie...",
+	"copied": "Skopiowano!",
+	"follow_on_tg": "Możesz podążać za szczegółami na naszym kanale na platformie Telegram.",
+	"settings": "Ustyawienia",
+	"general": "Ogólne",
+	"language": "Język",
+	"dark_mode": "Ciemny motyw",
+	"color_theme": "Kolor motywu",
+	"no_rom": "Tego ROMu nie możemy znaleźć na twoim urządzeniu. Zobacz nasz kanał Telegram",
+	"days_ago": "{value} dni temu",
+	"@days_ago": {
+      "placeholders": {
+        "value": {
+        }
+      }
+  	},
+	"hours_ago": "{value} godzin temu",
+	"@hours_ago": {
+      "placeholders": {
+        "value": {
+        }
+      }
+  	},
+	"min_ago": "{value} minut temu",
+	"@min_ago": {
+      "placeholders": {
+        "value": {
+        }
+      }
+  	},
+	"sec_ago": "{value} sekund temu",
+	"@sec_ago": {
+      "placeholders": {
+        "value": {
+        }
+      }
+  	},
+	"your_device": "Twoje urządzenie:",
+	"apps": "Aplikacje",
+	"update": "Aktualizacje",
+	"no_update": "Brak aktualizacji",
+	"umnwglobal": "Aktualizacje nie mogą działać na ROMie Globalnym",
+	"privacy_policy": "Polityka Prywatności",
+	"same_dt": "Taki sam jak motyw urządzenia",
+	"always_dark": "Zawsze czarny motyw",
+	"always_light": "Zawsze jasny motyw",
+	"theme": "Motyw",
+	"notify_enb": "Włączone powiadomienia.",
+	"notify_disabl": "Wyłączone powiadomienia.",
+	"turnofno": "Wyłącz powiadomienia",
+	"open_not": "Otwórz powiadomienia",
+	"open_in_web": "Otwórz w Sieci",
+	"check_for_updates": "Sprawdź Aktualizacje",
+	"unsupportedDevice": "Twoje urządzenie lub oprogramowanie jest nie wspierane!\nTa Aplikacja jest tylko na Urządzenia Xiaomi.",
+	"latest": "MIUI jest aktualne",
+    "howToApply": "Jak zainstalować plik Aktualizacji? | Poradnik",
+    "stable": "Stabilny",
+    "latestBig": "NAJNOWSZY",
+    "checking": "Sprawdzanie...",
+    "olderVers": "STARSZE WERSJE",
+    "oldMsg": "Nowszy od twojej wersji ale, starszy od najnowszej.",
+    "new_update": "Nowa Aktualizacja",
+	"weekly": "Tygodnowy",
+    "daily": "Codzienny",
+    "xiaomieuNot": "Wersje Xiaomi.eu nie są jeszcze wspierane. Proszę poczekać na aktualizację.",
+    "telegram_channel": "Kanał Telegram",
+    "remove_ads": "Usuń reklamy",
+    "the_policy_not_accepted": "Polityka nie została zaakceptowana.",
+    "tap_to_accept": "Dotkin aby zaakceptować",
+    "device_community": "Społeczność urządzeń",
+    "view_online": "Zobacz online",
+    "your_phone_not_supporting": "Twój telefon nie akceptuje tej akcji",
+    "device_not_found": "Nie znaleziono urządzenia?",
+    "invalid_version": "Niepoprawna wersja. Proszę pobrać ze Sklepu Google Play.",
+    "hidden_settings": "Ukryte Ustawienia",
+    "social": "Społecznościowe"
+	
+ 
+}
