@@ -1,0 +1,132 @@
+{
+	"security_patch_date": "Security patch date",
+	"miui_version": "MIUI Version",
+	"discover": "Discover",
+	"home": "Home",
+	"chats": "Chats",
+	"me": "Me",
+	"roms": "ROM's",
+	"miui13true": "You will get the MIUI 15 update.",
+	"miui13false": "You will not receive the MIUI 15 update.",
+	"android14true": "You will get the Android 14 update.",
+	"android14false": "You will not receive the Android 14 update.",
+	"shortnews": "Shortnews",
+	"miui_stable": "MIUI Stable",
+	"miui_stable_sub": "Prioritizes stability and gets updated about every 2-4 months.",
+	"xiaomieu_rom": "Xiaomi.eu ROM",
+	"xiaomieu_rom_sub": "Developed by a 3rd party developer. Based on China ROM. No ads and more",
+	"dailybeta_rom": "MIUI Weekly Beta",
+	"dailybeta_rom_sub": "Test version of stable version. It can only be installed with TWRP.",
+  "mipilot_rom_sub": "Test version of stable version. It can only be installed with TWRP or Mi Pilot account.",
+	"news": "News",
+	"search_devices": "Search for devices",
+	"devices": "Devices",
+	"all": "All",
+	"miscellanaous": "Miscellanaous",
+	"and12eg": "Android 12 Eligibility Check",
+	"cstmrec": "Custom Recovery (TWRP)",
+	"sauc": "Specs and User Comments",
+	"tg_channels": "Telegram Channels",
+	"tg_xiaomiui_sub": "What's new about Xiaomi phones and MIUI, leaks and more.",
+	"tg_miuidown_sub": "Quickly keep up with new MIUI versions.",
+	"tg_xiaomiuigrp_sub": "Offical Xiaomiui Telegram Group.",
+	"tg_gcamgrp_sub": "Official Google Camera Downloader Group.",
+	"tg_walls_sub": "Only mobile compatible wallpapers",
+	"stable_roms": "Stable ROMS",
+	"stable_roms_sub": "MIUI Stable ROM prioritizes stability and gets updated about every 2-4 months.",
+	"xiaomieu_roms_sub": "Developed by a 3rd party developer. Based on China ROM. No ads and more.",
+	"latest_version": "Latest Version: ",
+	"rollback_p": "The version you are looking for may have been rolled back. Check out older versions.",
+	"older_versions": "Older Versions",
+	"version": "Version: ",
+	"miui": "MIUI: ",
+	"android": "Android: ",
+	"update_at": "Updated at: ",
+	"filesize": "Filesize: ",
+	"md5": "MD5: ",
+	"download": "Download",
+	"whats_new": "What's new",
+	"file": "File: ",
+	"apply_for": "Apply For: ",
+	"older_versions_title": "Older Versions",
+	"custom_rec_title": "Custom Recoveries",
+	"nar_rec": "No new release.",
+	"opening": "Opening...",
+	"copied": "Copied.",
+	"follow_on_tg": "You can follow the details on our Telegram channel.",
+	"settings": "Settings",
+	"general": "General",
+	"language": "Language",
+	"dark_mode": "Dark Mode",
+	"color_theme": "Color Theme",
+	"no_rom": "This ROM could not be found on your device. Please check our Telegram channel",
+	"days_ago": "{value} days ago",
+	"@days_ago": {
+      "placeholders": {
+        "value": {
+        }
+      }
+  	},
+	"hours_ago": "{value} hours ago",
+	"@hours_ago": {
+      "placeholders": {
+        "value": {
+        }
+      }
+  	},
+	"min_ago": "{value} minutes ago",
+	"@min_ago": {
+      "placeholders": {
+        "value": {
+        }
+      }
+  	},
+	"sec_ago": "{value} seconds ago",
+	"@sec_ago": {
+      "placeholders": {
+        "value": {
+        }
+      }
+  	},
+	"your_device": "Your device:",
+	"apps": "Apps",
+	"update": "Update",
+	"no_update": "No Update",
+	"umnwglobal": "Updates may not work on Global ROM",
+	"privacy_policy": "Privacy Policy",
+	"same_dt": "Same as device theme",
+	"always_dark": "Always in dark theme",
+	"always_light": "Always in light theme",
+	"theme": "Theme",
+	"notify_enb": "Notifications enabled.",
+	"notify_disabl": "Notifications are turned off.",
+	"turnofno": "Turn off notifications",
+	"open_not": "Open notifications",
+	"open_in_web": "Open in Web",
+	"check_for_updates": "Check for updates",
+	"unsupportedDevice": "Your device or version unsupported!\nThis app is for Xiaomi phones only.",
+	"latest": "MIUI is up to date",
+    "howToApply": "How to apply the update file? | Tutorial",
+    "stable": "Stable",
+    "latestBig": "LATEST",
+    "checking": "Checking...",
+    "olderVers": "OLDER VERSIONS",
+    "oldMsg": "New from your version, old from the newest version.",
+    "new_update": "New Update",
+	"weekly": "Weekly",
+    "daily": "Daily",
+    "xiaomieuNot": "Xiaomi.eu versions are not yet supported. Wait for new versions of the app.",
+    "telegram_channel": "Telegram Channel",
+    "remove_ads": "Remove Ads",
+    "the_policy_not_accepted": "The policy was not accepted.",
+    "tap_to_accept": "Tap to accept",
+    "device_community": "Device Community",
+    "view_online": "View online",
+    "your_phone_not_supporting": "Your phone not supporting this activity",
+    "device_not_found": "Device not found?",
+    "invalid_version": "Invalid Version. Please download from Play Store.",
+    "hidden_settings": "Hid. Settings",
+    "social": "Social"
+	
+ 
+}
