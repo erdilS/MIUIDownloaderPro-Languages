@@ -1,0 +1,132 @@
+{
+	"security_patch_date": "Дата патчу безпеки",
+	"miui_version": "Версія MIUI",
+	"discover": "Відкриття",
+	"home": "Головна",
+	"chats": "Чати",
+	"me": "Я",
+	"roms": "ПЗУ",
+	"miui13true": "Ви отримаєте оновлення MIUI 15.",
+	"miui13false": "Ви не отримаєте оновлення MIUI 15.",
+	"android14true": "Ви отримаєте оновлення Android 14.",
+	"android14false": "Ви не отримаєте оновлення Android 14.",
+        "shortnews": "Короткі Новини",
+	"miui_stable": "Стабільна MIUI",
+	"miui_stable_sub": "Стабільність пріоритетів та оновлення приблизно кожні 2-4 місяці.",
+	"xiaomieu_rom": "ПЗУ Xiaomi.eu",
+        "xiaomieu_rom_sub": "Розроблено стороннім розробником. Засновано на Китайській ПЗУ. Без реклами та більше",
+	"dailybeta_rom": "Щотижнева бета-версія MIUI",
+	"dailybeta_rom_sub": "Тестова версія стабільної версії. Може бути встановлена лише за допомогою TWRP.",
+	"mipilot_rom_sub": "Тестова версія стабільної версії. Може бути встановлена лише за допомогою TWRP або облікового запису Mi Pilot.",
+	"news": "Новини",
+	"search_devices": "Знайти пристрої",
+	"devices": "Пристрої",
+	"all": "Усі",
+	"miscellanaous": "Різне",
+	"and12eg": "Перевірка сумісності з Android 12",
+	"cstmrec": "Кастомне Recovery (TWRP)",
+	"sauc": "Технічні характеристики та коментарі користувачів",
+	"tg_channels": "Telegram канали",
+	"tg_xiaomiui_sub": "Що нового в телефонах Xiaomi та MIUI, витоки та більше.",
+	"tg_miuidown_sub": "Швидко слідкуйте за новими версіями MIUI.",
+	"tg_xiaomiuigrp_sub": "Офіційна група Xiaomiui Telegram.",
+	"tg_gcamgrp_sub": "Офіційна група Google Camera Downloader.",
+	"tg_walls_sub": "Лише мобільні сумісні шпалери",
+	"stable_roms": "Стабільні ПЗУ",
+	"stable_roms_sub": "Стабільна версія MIUI пріоритет стабільності та оновлення приблизно кожні 2-4 місяці.",
+	"xiaomieu_roms_sub": "Розроблено стороннім розробником. Засновано на Китайській ПЗУ. Без реклами та більше.",
+	"latest_version": "Остання версія: ",
+	"rollback_p": "Версія, яку ви шукаєте, може бути повернута назад. Подивіться на старіші версії.",
+	"older_versions": "Старі версії",
+	"version": "Версія: ",
+	"miui": "MIUI: ",
+	"android": "Android: ",
+	"update_at": "Оновлено о: ",
+	"filesize": "Розмір файлу: ",
+	"md5": "MD5: ",
+	"download": "Завантажити",
+	"whats_new": "Що нового",
+	"file": "Файл: ",
+	"apply_for": "Застосувати для: ",
+	"older_versions_title": "Старі версії",
+	"custom_rec_title": "Кастомні Recoveries",
+	"nar_rec": Немає нових релізів.",
+	"opening": "Відкриття...",
+	"copied": "Скопійовано.",
+	"follow_on_tg": "Ви можете слідкувати за деталями на нашому Telegram каналі.",
+	"settings": "Налаштування",
+	"general": "Загальні",
+	"language": "Мова",
+	"dark_mode": "Темний режим",
+	"color_theme": "Кольорова тема",
+	"no_rom": "Цю версію ПЗУ не знайдено на вашому пристрої. Будь ласка, перевірте наш Telegram канал",
+	"days_ago": "{value} днів тому",
+	"@days_ago": {
+      "placeholders": {
+        "value": {
+        }
+      }
+  	},
+	"hours_ago": "{value} годин тому",
+	"@hours_ago": {
+      "placeholders": {
+        "value": {
+        }
+      }
+  	},
+	"min_ago": "{value} хвилин тому",
+	"@min_ago": {
+      "placeholders": {
+        "value": {
+        }
+      }
+  	},
+	"sec_ago": "{value} секнуд тому",
+	"@sec_ago": {
+      "placeholders": {
+        "value": {
+        }
+      }
+  	},
+	"your_device": "Ваш пристрій:",
+	"apps": "Додатки",
+	"update": "Оновлення",
+	"no_update": "Немає оновлень",
+	"umnwglobal": "Оновлення можуть не працювати на Глобальній ПЗУ",
+	"privacy_policy": "Політика приватності",
+	"same_dt": "Така сама як тема пристрою",
+	"always_dark": "Завжди в темній темі",
+	"always_light": "Завжди в світлій темі",
+	"theme": "Тема",
+	"notify_enb": "Сповіщення включені.",
+	"notify_disabl": "Сповіщення вимкнені.",
+	"turnofno": "Вимкнути сповіщення",
+	"open_not": "Відкрити сповіщення",
+	"open_in_web": "Відкрити у Браузері",
+	"check_for_updates": "Перевірити наявність оновлень",
+	"unsupportedDevice": "Ваш пристрій або версія не підтримується!\nЦей додаток лише для телефонів Xiaomi.",
+	"latest": "MIUI оновлено",
+    "howToApply": "Як застосувати файл оновлення? | Посібник",
+    "stable": "Стабільна",
+    "latestBig": "ОСТАННЯ",
+    "checking": "Перевірка...",
+    "olderVers": "БІЛЬШ СТАРІ ВЕРСІЇ",
+    "oldMsg": "Новий від вашої версії, старий від найновішої версії.",
+    "new_update": "Нове оновлення",
+	"weekly": "Щотижневий",
+    "daily": "Щоденний",
+    "xiaomieuNot": "Версії Xiaomi.eu ще не підтримуються. Чекайте на нові версії додатка.",
+    "telegram_channel": "Telegram канал",
+    "remove_ads": "Прибрати рекламу",
+    "the_policy_not_accepted": "Політика не прийнята.",
+    "tap_to_accept": "Натисніть щоб прийняти",
+    "device_community": "Спільнота пристроїв",
+    "view_online": "Переглянути онлайн",
+    "your_phone_not_supporting": "Ваш телефон не підтримує цю дію",
+    "device_not_found": "Пристрій не знайдено?",
+    "invalid_version": "Неприпустима версія. Будь ласка, завантажте з Play Store.",
+    "hidden_settings": "Приховані Налаштування",
+    "social": "Соціальний"
+	
+ 
+}
