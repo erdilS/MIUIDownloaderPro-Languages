@@ -1,0 +1,132 @@
+{
+	"security_patch_date": "Date du dernier patch de mise à jour installé",
+	"miui_version": "Version de MIUI",
+	"discover": "Découvrir",
+	"home": "Acceuil",
+	"chats": "Chats",
+	"me": "Moi",
+	"roms": "ROM's",
+	"miui13true": "Vous receverez une mise à jour avec MIUI 15.",
+	"miui13false": "Vous ne receverez pas de mise à jour avec MIUI 15.",
+	"android14true": "Vous receverez une mise à jour avec Android 14.",
+	"android14false": "Vous ne receverez pas de mise à jour avec Android 14..",
+	"shortnews": "Actualité rapide",
+	"miui_stable": "MIUI Stable",
+	"miui_stable_sub": "Optimisé pour la stabilité et reçois des mise à jour tout les 2-4 mois.",
+	"xiaomieu_rom": "ROM Xiaomi.eu",
+	"xiaomieu_rom_sub": "Developé par des developpeur tierces. Basé sur la ROM Chinoise. Pas de publicités et plus",
+	"dailybeta_rom": "ROM MIUI Hebdomadaire bêta",
+	"dailybeta_rom_sub": "Test pour des versions stable. Il peut être installé avec TWRP.",
+  "mipilot_rom_sub": "Test pour des versions stable. Il peut être installer avec TWRP ou Mi Pilot account.",
+	"news": "Actualités",
+	"search_devices": "Chercher pour votre appareil",
+	"devices": "Appareil",
+	"all": "Tout",
+	"miscellanaous": "Divers",
+	"and12eg": "Test d'égibilité d'Android 12",
+	"cstmrec": "Mode de récuperation customizé (Custom Recovery) (TWRP)",
+	"sauc": "Spécifications et commentaires des utilisateurs",
+	"tg_channels": "Groupe télégram",
+	"tg_xiaomiui_sub": "Quoi de neuf à propos des téléphones de Xiaomi, MIUI, fuite etc...",
+	"tg_miuidown_sub": "Suivez rapidement les nouvelles versions de MIUI.",
+	"tg_xiaomiuigrp_sub": "Groupe télégral officiel de Xiaomiui.",
+	"tg_gcamgrp_sub": "Groupe télégram officiel de la Google caméra ",
+	"tg_walls_sub": "Fond d'écran pour téléphone",
+	"stable_roms": "ROMS Stable",
+	"stable_roms_sub": "ROM MIUI Stable, optimisé pour la stabilité et reçois des mise à jour tout les 2-4 mois.",
+	"xiaomieu_roms_sub": "Developé par des developpeur tierces. Basé sur la ROM Chinoise. Pas de publicités et plus",
+	"latest_version": "Derniere version: ",
+	"rollback_p": "Cette version n'est plus disponible car elle a été retirer.\n Regardez les anciennes versions",
+	"older_versions": "Anciennes versions",
+	"version": "Version: ",
+	"miui": "MIUI: ",
+	"android": "Android: ",
+	"update_at": "Mis à jour à: ",
+	"filesize": "Taille du fichier: ",
+	"md5": "MD5: ",
+	"download": "Téléchargement",
+	"whats_new": "Quoi de neuf",
+	"file": "Fichier: ",
+	"apply_for": "Appliquer pour: ",
+	"older_versions_title": "Anciennes versions",
+	"custom_rec_title": "Mode de recupérage customizé (Custom Recovery)",
+	"nar_rec": "Pas de nouvelle sorti.",
+	"opening": "Ouverture...",
+	"copied": "Copié.",
+	"follow_on_tg": "Vous pouvez voir les détails sur notre groupe télégram",
+	"settings": "Paramètre",
+	"general": "General",
+	"language": "Langage",
+	"dark_mode": "Mode Sombre",
+	"color_theme": "Theme",
+	"no_rom": "La ROM n'a pas été retrouvé pour votre appareil. Rechercher sur notre groupe télégram.",
+	"days_ago": "{value} jours",
+	"@days_ago": {
+      "placeholders": {
+        "value": {
+        }
+      }
+  	},
+	"hours_ago": "{value} heures",
+	"@hours_ago": {
+      "placeholders": {
+        "value": {
+        }
+      }
+  	},
+	"min_ago": "{value} minutes",
+	"@min_ago": {
+      "placeholders": {
+        "value": {
+        }
+      }
+  	},
+	"sec_ago": "{value} secondes",
+	"@sec_ago": {
+      "placeholders": {
+        "value": {
+        }
+      }
+  	},
+	"your_device": "Votre appareil:",
+	"apps": "Apps",
+	"update": "Mise à jour",
+	"no_update": "Pas de mise à jour",
+	"umnwglobal": "Mise à jour peut ne pas marchés sur les ROMS Global",
+	"privacy_policy": "Politique de confidentialité",
+	"same_dt": "Par défaut",
+	"always_dark": "Toujours en mode sombre",
+	"always_light": "Toujours en mode claire",
+	"theme": "Theme",
+	"notify_enb": "Les notifications sont activés.",
+	"notify_disabl": "Les notifications sont désactivés.",
+	"turnofno": "Désactiver les notifications",
+	"open_not": "Ouvrir la notification",
+	"open_in_web": "Ouvrir dans un navigateur web",
+	"check_for_updates": "Recherche de mise à jour",
+	"unsupportedDevice": "Votre appareil ou votre version n'est pas compatible!\nCette application est uniquement utilisable pour les utilisateurs d'un téléphone Xiaomi.",
+	"latest": "MIUI est mise à jour",
+    "howToApply": "Comment appliqué la mise à jour? | Tutoriel",
+    "stable": "Stable",
+    "latestBig": "DERNIERE",
+    "checking": "Recherche...",
+    "olderVers": "ANCIENNES VERSIONS",
+    "oldMsg": "Nouvelle de votre version, ancien de la nouvelle version.",
+    "new_update": "Nouvelle mise à jour",
+	"weekly": "hebdomadaire (Weekly)",
+    "daily": "quotidien (Daily)",
+    "xiaomieuNot": "Les versions de Xiaomi.eu ne sont pas encore supporté. Attendez une nouvelle mise à jour de MIUI Downloader",
+    "telegram_channel": "Groupe Telegram",
+    "remove_ads": "Supprimer les publicités",
+    "the_policy_not_accepted": "La politique n'a pas été accepter",
+    "tap_to_accept": "Appuyer pour accepter",
+    "device_community": "Communauté de l'appareil",
+    "view_online": "Voir en ligne",
+    "your_phone_not_supporting": "Votre téléphone ne supporte pas cette activité",
+    "device_not_found": "Votre appareil n'a pas été trouvé.",
+    "invalid_version": "Version invalide. Retelecharger MIUI Downloader sur le Play Store",
+    "hidden_settings": "Hid. Settings",
+    "social": "Social"
+	
+ 
+}
