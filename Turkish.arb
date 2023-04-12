@@ -126,7 +126,12 @@
     "device_not_found": "Cihaz bulunamadı?",
     "invalid_version": "Hatalı sürüm. Lütfen Play Store'dan indirin.",
     "hidden_settings": "Giz. Ayarlar",
-    "social": "Sosyal"
+    "social": "Sosyal",
+	"restore_purchase": "Satın almayı geri yükle",
+    "upgraded": "Güncellendi.",
+    "your_system_uptodate": "Sisteminiz güncel",
+    "there_is_new_update": "Yeni bir güncelleme var",
+    "howToApply": "Güncelleme dosyası nasıl uygulanır? | Rehber"
 	
  
 }

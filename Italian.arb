@@ -126,7 +126,12 @@
     "device_not_found": "Dispositivo non trovato?",
     "invalid_version": "Versione non valida. Scarica dal Play Store.",
     "hidden_settings": "Impostazioni nascoste",
-    "social": "Social"
+    "social": "Social",
+	"restore_purchase": "Ripristinare acquisto",
+    "upgraded": "Aggiornato.",
+    "your_system_uptodate": "Il tuo sistema è aggiornato",
+    "there_is_new_update": "C'è un nuovo aggiornamento",
+    "howToApply": "Come applicare il file di aggiornamento? | Esercitazione"
 	
  
 }

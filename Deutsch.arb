@@ -123,7 +123,12 @@
 	"invalid_version": "Ungültige Version. Bitte aus dem Play Store herunterladen.",
 	"hidden_settings": "Versteckte Einstellungen",
 	"social": "sozial",
-	"stable": "Stabil"
+	"stable": "Stabil",
+	"restore_purchase": "Kauf wiederherstellen",
+    "upgraded": "Aufgerüstet.",
+    "your_system_uptodate": "Ihr System ist auf dem neuesten Stand",
+    "there_is_new_update": "Es gibt ein neues Update",
+    "howToApply": "Wie wende ich die Update-Datei an? | Lernprogramm"
 
 
 }

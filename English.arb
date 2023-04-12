@@ -93,7 +93,7 @@
 	"update": "Update",
 	"no_update": "No Update",
 	"umnwglobal": "Updates may not work on Global ROM",
-	"privacy_policy": "Privacy Policy",
+	"privacy_policy": "Privacy policy",
 	"same_dt": "Same as device theme",
 	"always_dark": "Always in dark theme",
 	"always_light": "Always in light theme",
@@ -106,7 +106,7 @@
 	"check_for_updates": "Check for updates",
 	"unsupportedDevice": "Your device or version unsupported!\nThis app is for Xiaomi phones only.",
 	"latest": "MIUI is up to date",
-    "howToApply": "How to apply the update file? | Tutorial",
+    "howToApply": "How to apply the update file? | Click to Learn",
     "stable": "Stable",
     "latestBig": "LATEST",
     "checking": "Checking...",
@@ -126,7 +126,13 @@
     "device_not_found": "Device not found?",
     "invalid_version": "Invalid Version. Please download from Play Store.",
     "hidden_settings": "Hid. Settings",
-    "social": "Social"
+    "social": "Social",
+    "restore_purchase": "Restore purchase",
+    "upgraded": "Upgraded.",
+    "your_system_uptodate": "Your system is up to date",
+    "there_is_new_update": "There is a new update",
+    "howToApply": "How to apply the update file? | Tutorial"
+	
 	
  
 }

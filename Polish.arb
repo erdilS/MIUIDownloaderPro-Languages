@@ -126,7 +126,12 @@
     "device_not_found": "Nie znaleziono urządzenia?",
     "invalid_version": "Niepoprawna wersja. Proszę pobrać ze Sklepu Google Play.",
     "hidden_settings": "Ukryte Ustawienia",
-    "social": "Społecznościowe"
+    "social": "Społecznościowe",
+	"restore_purchase": "Przywróć zakup",
+    "upgraded": "Ulepszony.",
+    "your_system_uptodate": "Twój system jest aktualny",
+    "there_is_new_update": "Jest nowa aktualizacja",
+    "howToApply": "Jak zastosować plik aktualizacji? | Instruktaż"
 	
  
 }

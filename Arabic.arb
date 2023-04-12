@@ -126,7 +126,12 @@
     "device_not_found": "لم يتم العثور على الجهاز?",
     "invalid_version": "اصدار غير صالح. الرجاء حمل التطبيق من متجر جوجل بلاي.",
     "hidden_settings": "الاعدادات المخفية",
-    "social": "اجتماعي"
+    "social": "اجتماعي",
+	"restore_purchase": "استعادة شراء",
+    "upgraded": "ترقية.",
+    "your_system_uptodate": "النظام الخاص بك محدث",
+    "there_is_new_update": "هناك تحديث جديد",
+    "howToApply": "كيف يتم تطبيق ملف التحديث؟ | درس تعليمي"
 
 
 }

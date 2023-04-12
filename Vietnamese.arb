@@ -126,7 +126,12 @@
     "device_not_found": "Thiết bị không được tìm thấy?",
     "invalid_version": "Sai phiên bản. Vui lòng tải từ Cửa hàng Google Play.",
     "hidden_settings": "Cài đặt Ẩn",
-    "social": "Xã hội"
+    "social": "Xã hội",
+	"restore_purchase": "Khôi phục mua hàng",
+    "upgraded": "Nâng cấp.",
+    "your_system_uptodate": "Hệ thống của bạn được cập nhật",
+    "there_is_new_update": "Có một bản cập nhật mới",
+    "howToApply": "Làm cách nào để áp dụng tệp cập nhật? | Hướng dẫn"
 	
  
 }

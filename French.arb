@@ -126,7 +126,12 @@
     "device_not_found": "Votre appareil n'a pas été trouvé.",
     "invalid_version": "Version invalide. Retelecharger MIUI Downloader sur le Play Store",
     "hidden_settings": "Hid. Settings",
-    "social": "Social"
+    "social": "Social",
+	"restore_purchase": "Restaurer l'achat",
+    "upgraded": "Amélioré.",
+    "your_system_uptodate": "Votre système est à jour",
+    "there_is_new_update": "Il y a une nouvelle mise à jour",
+    "howToApply": "Comment appliquer le fichier de mise à jour ? | Didacticiel"
 	
  
 }

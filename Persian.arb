@@ -122,7 +122,12 @@
 	"device_not_found": "دستگاه پیدا نشد؟",
 	"invalid_version": "نسخه نامعتبر. لطفاً از فروشگاه Play دانلود کنید.",
 	"hidden_settings": "پنهان کرد.  تنظیمات",
-	"social": "اجتماعی"
+	"social": "اجتماعی",
+	"restore_purchase": "خرید را بازیابی کنید",
+    "upgraded": "ارتقا یافته است",
+    "your_system_uptodate": "سیستم شما به روز است",
+    "there_is_new_update": "یک آپدیت جدید وجود دارد",
+    "howToApply": "چگونه فایل آپدیت را اعمال کنیم؟ | آموزش"
 
 
 }

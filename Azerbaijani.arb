@@ -126,7 +126,12 @@
     "device_not_found": "Cihazı tapa bilmədin?",
     "invalid_version": "Səhv versiya. Xahiş edirik Play Store-dan yükləyin.",
     "hidden_settings": "Gizli. Parametrlər",
-    "social": "Sosial"
+    "social": "Sosial",
+	"restore_purchase": "Satınalmanı bərpa edin",
+    "upgraded": "Təkmilləşdirilmiş.",
+    "your_system_uptodate": "Sisteminiz yenilənib",
+    "there_is_new_update": "Yeni yeniləmə var",
+    "howToApply": "Yeniləmə faylını necə tətbiq etmək olar? | Dərslik"
 	
  
 }

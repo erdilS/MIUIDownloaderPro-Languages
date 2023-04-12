@@ -126,7 +126,12 @@
     "device_not_found": "Perangkat tak ditemukan?",
     "invalid_version": "Versi salah. Silahkan unduh dari Play Store.",
     "hidden_settings": "Pengaturan tersembunyi",
-    "social": "Sosial"
+    "social": "Sosial",
+	"restore_purchase": "Kembalikan pembelian",
+    "upgraded": "Ditingkatkan.",
+    "your_system_uptodate": "Sistem Anda mutakhir",
+    "there_is_new_update": "Ada pembaruan baru",
+    "howToApply": "Bagaimana cara menerapkan file pembaruan? | Tutorial"
 	
  
 }

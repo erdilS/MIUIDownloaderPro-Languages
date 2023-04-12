@@ -126,7 +126,12 @@
     "device_not_found": "Пристрій не знайдено?",
     "invalid_version": "Неприпустима версія. Будь ласка, завантажте з Play Store.",
     "hidden_settings": "Приховані Налаштування",
-    "social": "Соціальний"
+    "social": "Соціальний",
+	"restore_purchase": "Відновити покупку",
+    "upgraded": "Оновлено.",
+    "your_system_uptodate": "Ваша система оновлена",
+    "there_is_new_update": "Вийшло нове оновлення",
+    "howToApply": "Як застосувати файл оновлення? | Підручник" 
 	
  
 }

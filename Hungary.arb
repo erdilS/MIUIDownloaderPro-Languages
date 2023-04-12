@@ -126,7 +126,12 @@
     "device_not_found": "Eszköz nem található?",
     "invalid_version": "Érvénytelen verzió. Kérjük, töltsd le a Play Áruházból.",
     "hidden_settings": "Rejtett Beállítások",
-    "social": "Social"
+    "social": "Social",
+	"restore_purchase": "Vásárlás visszaállítása",
+    "upgraded": "Frissítve.",
+    "your_system_uptodate": "Rendszere naprakész",
+    "there_is_new_update": "Van egy új frissítés",
+    "howToApply": "Hogyan kell alkalmazni a frissítőfájlt? | Oktatóanyag"
 	
  
 }

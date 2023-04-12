@@ -126,7 +126,12 @@
     "device_not_found": "ডিভাইস পাওয়া যায় নি?",
     "invalid_version": "অবৈধ সংস্করণ. প্লে স্টোর থেকে ডাউনলোড করুন।",
     "hidden_settings": "গোপন। সেটিংস",
-    "social": "সামাজিক"
+    "social": "সামাজিক",
+	"restore_purchase": "ক্রয় পুনরুদ্ধার",
+    "upgraded": "আপগ্রেড.",
+    "your_system_uptodate": "আপনার সিস্টেম আপ টু ডেট",
+    "there_is_new_update": "একটি নতুন আপডেট আছে",
+    "howToApply": "আপডেট ফাইল কিভাবে প্রয়োগ করবেন? | টিউটোরিয়াল"
 	
  
 }
