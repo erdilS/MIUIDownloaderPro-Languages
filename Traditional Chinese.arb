@@ -1,0 +1,138 @@
+{
+	"security_patch_date": "安全性修補程式",
+	"miui_version": "MIUI 版本",
+	"discover": "探索",
+	"home": "首頁",
+	"chats": "聊天",
+	"me": "我",
+	"roms": "ROM",
+	"miui13true": "您將會取得 MIUI 15 更新。",
+	"miui13false": "您將不會收到 MIUI 15 更新。",
+	"android14true": "您將會取得 Android 14 更新。",
+	"android14false": "您將不會收到 Android 14 更新。",
+	"shortnews": "短新聞",
+	"miui_stable": "MIUI 穩定版",
+	"miui_stable_sub": "以穩定性優先，每 2-4 個月取得一次更新",
+	"xiaomieu_rom": "Xiaomi.eu ROM",
+	"xiaomieu_rom_sub": "由第三方開發人員開發，基於中國版 ROM，沒有廣告和額外內容",
+	"dailybeta_rom": "MIUI 開發版",
+	"dailybeta_rom_sub": "穩定版的測試版本，僅可透過 TWRP 安裝",
+  "mipilot_rom_sub": "穩定版的測試版本，僅可透過 TWRP 或 Pilot 帳戶安裝",
+	"news": "新聞",
+	"search_devices": "搜尋更多裝置",
+	"devices": "裝置",
+	"all": "所有",
+	"miscellanaous": "雜項",
+	"and12eg": "Android 12 資格檢查 Check",
+	"cstmrec": "自訂 Recovery (TWRP)",
+	"sauc": "規格和使用者留言",
+	"tg_channels": "Telegram 頻道",
+	"tg_xiaomiui_sub": "有關小米手機、MIUI、資料外洩和其他內容的最新消息。",
+	"tg_miuidown_sub": "隨時掌握 MIUI 最新版本。",
+	"tg_xiaomiuigrp_sub": "官方 Xiaomiui Telegram 群組。",
+	"tg_gcamgrp_sub": "官方 Google Camera Downloader 群組。",
+	"tg_walls_sub": "僅與行動裝置相容的桌布",
+	"stable_roms": "穩定版 ROM",
+	"stable_roms_sub": "MIUI 穩定版 ROM 以穩定性優先，每 2-4 個月取得一次更新。",
+	"xiaomieu_roms_sub": "由第三方開發人員開發，基於中國版 ROM，沒有廣告和額外內容",
+	"latest_version": "最新版本：",
+	"rollback_p": "您正在尋找的版本可能已經復原，請檢視較舊版本。",
+	"older_versions": "較舊版本",
+	"version": "版本：",
+	"miui": "MIUI：",
+	"android": "Android：",
+	"update_at": "更新於：",
+	"filesize": "檔案大小：",
+	"md5": "MD5：",
+	"download": "下載",
+	"whats_new": "新增功能",
+	"file": "檔案：",
+	"apply_for": "申請加入：",
+	"older_versions_title": "較舊版本",
+	"custom_rec_title": "自訂 Recovery",
+	"nar_rec": "沒有新發行。",
+	"opening": "正在開啟…",
+	"copied": "已複製。",
+	"follow_on_tg": "您可以遵循我們的 Telegram 頻道中的詳細說明。",
+	"settings": "設定",
+	"general": "一般",
+	"language": "語言",
+	"dark_mode": "深色模式",
+	"color_theme": "色彩主題",
+	"no_rom": "無法在您的裝置上找到此 ROM，請查看我們的 Telegram 頻道",
+	"days_ago": "{value} 天前",
+	"@days_ago": {
+      "placeholders": {
+        "value": {
+        }
+      }
+  	},
+	"hours_ago": "{value} 小時前",
+	"@hours_ago": {
+      "placeholders": {
+        "value": {
+        }
+      }
+  	},
+	"min_ago": "{value} 分鐘前",
+	"@min_ago": {
+      "placeholders": {
+        "value": {
+        }
+      }
+  	},
+	"sec_ago": "{value} 秒前",
+	"@sec_ago": {
+      "placeholders": {
+        "value": {
+        }
+      }
+  	},
+	"your_device": "您的裝置：",
+	"apps": "應用程式",
+	"update": "更新",
+	"no_update": "沒有更新",
+	"umnwglobal": "更新功能可能無法在國際版 ROM 上正常運作",
+	"privacy_policy": "隱私權政策",
+	"same_dt": "跟隨系統",
+	"always_dark": "深色模式",
+	"always_light": "淺色模式",
+	"theme": "主題",
+	"notify_enb": "通知已啟用",
+	"notify_disabl": "通知已關閉。",
+	"turnofno": "關閉通知",
+	"open_not": "開啟通知",
+	"open_in_web": "在網頁中開啟",
+	"check_for_updates": "檢查更新",
+	"unsupportedDevice": "您的裝置或版本不支援！\n這個應用程式僅支援 Xiaomi 裝置。",
+	"latest": "MIUI 已是最新版本",
+    "howToApply": "如何套用更新檔案？|深入瞭解",
+    "stable": "穩定版",
+    "latestBig": "最新版",
+    "checking": "正在檢查…",
+    "olderVers": "較舊版本",
+    "oldMsg": "比您的版本更新，比最新版本更舊。",
+    "new_update": "新更新",
+	"weekly": "每週",
+    "daily": "每日",
+    "xiaomieuNot": "Xiaomi.eu 版本尚未支援，請等候這個應用程式的新版本。",
+    "telegram_channel": "Telegram 頻道",
+    "remove_ads": "移除廣告",
+    "the_policy_not_accepted": "未接受相關政策。",
+    "tap_to_accept": "輕觸以接受",
+    "device_community": "裝置社群",
+    "view_online": "線上檢視",
+    "your_phone_not_supporting": "您的裝置不支援此活動",
+    "device_not_found": "找不到裝置？",
+    "invalid_version": "無效的版本，請從 Play 商店重新下載。",
+    "hidden_settings": "隱藏設定",
+    "social": "社群",
+    "restore_purchase": "還原購買",
+    "upgraded": "已升級.",
+    "your_system_uptodate": "您的系統已是最新",
+    "there_is_new_update": "有可用的更新",
+    "howToApply": "如何套用更新檔案？|教學課程"
+	
+	
+ 
+}
